@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T14:11:51.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a7UoZrMOkp6ZMobflgNq" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T14:15:24.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_P4LvJZ_KDFXOsr50KUy" version="22.1.18" type="github">
   <diagram name="Pagina-1" id="nyl3sg47Gcw2saRY_RGQ">
-    <mxGraphModel dx="367" dy="1315" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MsIbcDuuBUqC55011aV0-1" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-1" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="96" y="-588" width="220" height="263" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-2" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Knowledge&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-2" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Knowledge&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="176" y="-618" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-4" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Data&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-4" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Data&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="8" y="-335" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-6" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Physics of failure&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-6" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot;&gt;Physics of failure&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="365" y="-337" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-7" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot; style=&quot;font-size: 10px;&quot;&gt;Experience&lt;br&gt;based&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-7" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/&quot; face=&quot;cm&quot; style=&quot;font-size: 10px;&quot;&gt;Experience&lt;br&gt;based&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="170" y="-578" width="72" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-8" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Stressor&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; font-family: cm; background-color: initial;&quot;&gt;based&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-8" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Stressor&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; font-family: cm; background-color: initial;&quot;&gt;based&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="248" y="-481" width="72" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-10" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Reliability&lt;br&gt;statistics&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-10" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Reliability&lt;br&gt;statistics&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="77" y="-450" width="72" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-11" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Degradation based&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-11" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Degradation based&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="170" y="-444" width="72" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-12" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Model Based&lt;br&gt;on data&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-12" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Model Based&lt;br&gt;on data&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="43" y="-370" width="72" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MsIbcDuuBUqC55011aV0-13" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Model Based&lt;br&gt;Physical&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MsIbcDuuBUqC55011aV0-13" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;cm&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Model Based&lt;br&gt;Physical&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="295" y="-370" width="72" height="37" as="geometry" />
         </mxCell>
       </root>
