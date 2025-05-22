@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Pagina-1" id="X-1EZg5lTaZ12vDLtgBy">
-    <mxGraphModel>
+    <mxGraphModel dx="582" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5ckwl_MyqC8-SWNFlLa--2" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ckwl_MyqC8-SWNFlLa--4" value="Raw Data folder. It contains:&lt;div&gt;&lt;ul&gt;&lt;li&gt;metadata.csv&lt;/li&gt;&lt;li&gt;n_0.parquet (n=brg IDs: n= 1,2,3,4,5,...)&lt;/li&gt;&lt;li&gt;slow data&lt;/li&gt;&lt;ul&gt;&lt;li&gt;brgID_ss.csv&lt;br&gt;&lt;/li&gt;&lt;li&gt;brgID.csv&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="100" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5ckwl_MyqC8-SWNFlLa--5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
